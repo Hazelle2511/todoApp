@@ -1,0 +1,19 @@
+{
+  "main.css": "/todoApp/static/css/main.8547b491.chunk.css",
+  "main.js": "/todoApp/static/js/main.43160e9f.chunk.js",
+  "main.js.map": "/todoApp/static/js/main.43160e9f.chunk.js.map",
+  "runtime~main.js": "/todoApp/static/js/runtime~main.1d50937c.js",
+  "runtime~main.js.map": "/todoApp/static/js/runtime~main.1d50937c.js.map",
+  "static/css/2.0b60a7f9.chunk.css": "/todoApp/static/css/2.0b60a7f9.chunk.css",
+  "static/js/2.4b70eaab.chunk.js": "/todoApp/static/js/2.4b70eaab.chunk.js",
+  "static/js/2.4b70eaab.chunk.js.map": "/todoApp/static/js/2.4b70eaab.chunk.js.map",
+  "index.html": "/todoApp/index.html",
+  "precache-manifest.06e2022be4788d59a289cf7700439aa2.js": "/todoApp/precache-manifest.06e2022be4788d59a289cf7700439aa2.js",
+  "service-worker.js": "/todoApp/service-worker.js",
+  "static/css/2.0b60a7f9.chunk.css.map": "/todoApp/static/css/2.0b60a7f9.chunk.css.map",
+  "static/css/main.8547b491.chunk.css.map": "/todoApp/static/css/main.8547b491.chunk.css.map",
+  "static/media/index.css": "/todoApp/static/media/poppins-latin-ext-400-normal.0ed299a4.woff2",
+  "static/media/500.css": "/todoApp/static/media/poppins-latin-ext-500-normal.a6ff41d1.woff2",
+  "static/media/600.css": "/todoApp/static/media/poppins-latin-ext-600-normal.72b3ae37.woff2",
+  "static/media/700.css": "/todoApp/static/media/poppins-latin-ext-700-normal.96b6d546.woff2"
+}
