@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "title": "Cake topper task",
+      "status": "complete",
+      "description": "Need to do cake topper for my nephew this Saturday",
+      "id": 1
+    },
+    {
+      "title": "Bring the baby to the doctor",
+      "status": "incomplete",
+      "description": "Monthly checkup for the baby",
+      "id": 2
+    }
+  ]
+}
