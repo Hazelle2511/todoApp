@@ -6,18 +6,14 @@ import "./TodoItem.css";
 function TodoList({ todos }) {
   return (
     <div className="todo-preview">
-      {todos.map((todo, index) => (
-        <div
-        // className={todo.isComplete ? "todo-row complete" : "todo-row"}
-        // key={index}
-        >
-          <div className="todo-preview" key={todo.id}>
-            <Link className="todoText" to={`todo/${todo.id}`}>
-              <h2 className="texts">{todo.title}</h2>
+      {todos.map((todo) => (
+        <div className="todo-preview" key={todo.id}>
+          <Link className="todoText" to={`todo/${todo.id}`}>
+            <h2 className="texts">{todo.title}</h2>
 
-              <h2 className="time">{todo.status}</h2>
-            </Link>
-            {/* <div className="todoActions">
+            <h2 className="time">{todo.status}</h2>
+          </Link>
+          {/* <div className="todoActions">
                 <div className="icon">
                   <MdDelete />
                 </div>
@@ -25,7 +21,6 @@ function TodoList({ todos }) {
                   <MdEdit />
                 </div>
               </div> */}
-          </div>
         </div>
       ))}
     </div>
